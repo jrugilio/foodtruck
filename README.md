@@ -7,3 +7,4 @@ A mock site for the UX Team to learn all things front-end development and github
 
 ##Proposal and Assignments
 Jay (8/17) - Basic page template
+Mike (8/17) -  Docs setup
